@@ -1,4 +1,11 @@
-# inshc
+<p align="center">
+# Instabrute v1.0
+# Instagram bot,auto follower
+## Recoded: github.com/R34l-h4ck3r/inshackle-bot
+## IG: instagram.com/grey-hat-16
+## subscribe my YouTube channel - https://youtu.be/a0XvGxENRDM
+### Don't copy this code without give me the credits, nerd! Please read the License 
+# instabrute
 Best Instahack Version For Termux
 
 How To Install In Termux ?
@@ -36,3 +43,4 @@ ls
 python hackinsta.py
 =
 
+## by R34l-h4ck3r

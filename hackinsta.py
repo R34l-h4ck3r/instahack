@@ -1,4 +1,3 @@
-
 '''
 TODO LIST:
 	Fix and make proxy function better
@@ -21,7 +20,17 @@ def Input(text):
 	else:
 		value = raw_input(text)
 	return str(value)
-
+    
+print(bcolors.HEADER + """.-------------------------------------------------------.""")
+    print("""| _____          _         ______            _          |""")
+    print("""||_   _|        | |        | ___ \          | |         |""")
+    print("""|  | | _ __  ___| |_ __ _  | |_/ /_ __ _   _| |_ ___    |""")
+    print("""|  | || '_ \/ __| __/ _` | | ___ \ '__| | | | __/ _ \   |""")
+    print("""| _| || | | \__ \ || (_| | | |_/ / |  | |_| | ||  __/   |""")
+    print("""| \___/_| |_|___/\__\__,_| \____/|_|   \__,_|\__\___|   |""")
+    print("""|        by R34l-h4ck3r  {insta:-@grey_hat_16}          |""")
+    print("""'-------------------------------------------------------'""")
+    
 #The main class
 class Instabrute():
 	def __init__(self, username, passwordsFile='pass.txt'):
